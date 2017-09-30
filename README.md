@@ -4,5 +4,5 @@
 # 构建起app
 系项目提供android和ios的版本。
 # Lisence
-MIT
+MIT<br />
  Copyright (c), Shengwen Wang
