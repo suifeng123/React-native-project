@@ -5,4 +5,4 @@
 系项目提供android和ios的版本。
 # Lisence
 MIT
-Copyright (c), Shengwen Wang
+ Copyright (c), Shengwen Wang
